@@ -1,0 +1,23 @@
+{
+  "name": "postcss-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Summer-andy/postcss-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Summer-andy/postcss-calc/issues"
+  },
+  "homepage": "https://github.com/Summer-andy/postcss-calc#readme",
+  "dependencies": {
+    "postcss-values-parser": "^5.0.0",
+    "postcss": "^8.2.8"
+  }
+}
